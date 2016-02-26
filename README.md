@@ -1,6 +1,4 @@
 # Project Jabberwocky (Lab 6)
-Simple Server for students in CS197U to learn to manage processes.
-
 Links to status pages (if server is up) are on [jabberwocky.ddns.net](http://jabberwocky.ddns.net)
 
 ## Part A
