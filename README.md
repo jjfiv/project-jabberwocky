@@ -1,6 +1,10 @@
 # Project Jabberwocky (Lab 6)
 Links to status pages (if server is up) are on [jabberwocky.ddns.net](http://jabberwocky.ddns.net)
 
+## Caveat Student
+
+Official instructions are on Moodle. Make sure to answer the "Report Questions" R1...R7 listed there.
+
 ## Part A
 
 ### Install & Setup
