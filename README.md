@@ -1,5 +1,5 @@
 # Project Jabberwocky (Lab 6)
-Links to status pages (if server is up) are on [jabberwocky.ddns.net](http://jabberwocky.ddns.net)
+Links to status pages (if server is up) are on [jabberwocky.ddns.net](http://jabberwocky.ddns.net). This is a shameless homage to the "substance-less" [Project Jabberwocky](http://betteroffted.wikia.com/wiki/Jabberwocky) that the Veridian Dynamics executives in Better Off Ted were too embarrassed to admit that they knew nothing about, and so firmly supported it, despite it's lack of existing. 
 
 ## Caveat Student
 
