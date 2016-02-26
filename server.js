@@ -1,5 +1,5 @@
-const http = require('http');
 const port = 1234;
+const http = require('http');
 
 var startTime = (new Date()).getTime();
 console.log('START-TIME: '+startTime)
